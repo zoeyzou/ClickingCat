@@ -1,4 +1,4 @@
-$(".alert").alert('close');
+
 
 //adding event listener for image clicking and reset button
 var counter = 0;
